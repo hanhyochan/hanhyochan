@@ -1,12 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B0E57C&height=300&section=header&text=Hello%20World!&fontSize=90&animation=twinkling)
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanhyochan"/>
-  </a>
-</p>
-
-
 ## 🚀 **Skills**
 
 <p>
@@ -25,4 +18,9 @@
   <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=AdobeXD&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rhino-801010?style=for-the-badge&logo=Rhinoceros&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira%20Software-0052CC?style=for-the-badge&logo=JiraSoftware&logoColor=white"/>
+</p>
+
+## 📱 **Contact**
+<p>
+  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
